@@ -4,9 +4,6 @@
 Este é um projeto de um jogo de Campo Minado (Minesweeper) desenvolvido em React Native. O objetivo do jogo é encontrar todas as células sem bombas em um tabuleiro, evitando explosões. 
 
 ## Índice
-
-- [Campo Minado em React Native](#campo-minado-em-react-native)
-  - [Índice](#índice)
   - [Sobre o Projeto](#sobre-o-projeto)
   - [Instalação](#instalação)
   - [Como Jogar](#como-jogar)
